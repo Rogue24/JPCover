@@ -10,11 +10,13 @@
 
 ## My Repository
 
-	
+|[JPImageresizerView](https://github.com/Rogue24/JPImageresizerView)|[InfiniteeUI](https://github.com/Rogue24/InfiniteeUI)|
+|:---:|:---:|
+|![](https://github.com/Rogue24/JPCover/raw/master/JPImageresizerView/cover.gif)|![](https://github.com/Rogue24/JPCover/raw/master/InfiniteeUI/sunorder.gif)|
 
-----|------
-1.6.0~1.6.3 | 1. 可裁剪本地视频整段画面或某一帧画面，并且可以动态切换裁剪素材；<br>2. 现在默认经典模式下，闲置时网格线会隐藏，拖拽时才会显示，新增了isShowGridlinesWhenIdle属性，可以跟isShowGridlinesWhenDragging属性自定义显示时机；<br>3. 修复了设置蒙版图片后切换裁剪素材时的方向错乱问题；<br>4. 优化图片裁剪的逻辑，优化API。
-1.5.0~1.5.3 | 1. 新增自定义蒙版图片功能，从而实现可自定义任意裁剪区域；<br>2. 修复了经旋转重置后裁剪宽高比错乱的问题；<br>3. 优化了旋转、翻转的过渡动画。
+|[JPFloatingWindow](https://github.com/Rogue24/JPFloatingWindow)|[JPLiquidLayout](https://github.com/Rogue24/JPLiquidLayout)|[FirstLineHeadIndentAnimation](https://github.com/Rogue24/FirstLineHeadIndentAnimation)|
+|:---:|:---:|:---:|
+|![](https://github.com/Rogue24/JPCover/raw/master/JPFloatingWindow/gif_example.gif)|![](https://github.com/Rogue24/JPCover/raw/master/JPLiquidLayout/insert.gif)|![](https://github.com/Rogue24/JPCover/raw/master/FirstLineHeadIndentAnimation/cover.gif)|
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
